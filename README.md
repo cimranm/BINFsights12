@@ -17,14 +17,9 @@ Needless to say, these methods are incredibly promising. However, we only touche
 
 
 <p float="left">
-  <img src="/image2.png" width="100" />
-  <img src="/image1.png" width="100" /> 
+  <img src="/image2.png" width="500" />
+  <img src="/image1.png" width="500" /> 
 </p>
-
-
-< IMAGE >
-
- ![space-1.jpg](https://blog-assets.thedyrt.com/uploads/2019/01/shutterstock_1033306540-1.jpg) <b>Image Credits - Fig.2 - 4K Mountains Wallpaper</b>|
  
  
  ### A dive into data
@@ -55,7 +50,9 @@ As the first study of its kind, the researchers set out to assess the quality an
 
 Benchmarked against a deep learning tool developed to classify microscopy images, the players were outperformed on common patterns of protein localisation. However, interestingly players excelled at recognising and marking out rarer and more unusual patterns. By combining the player’s annotations with the deep learning model, the model was able to predict a range of protein localisation patterns with incredible accuracy. 
 
-< IMAGE >
+
+
+ ![EVE.jpg](/image3.png) <b>Screenshot from EVE online</b>|
 
 ### How sustainable is Citizen Science?
 
