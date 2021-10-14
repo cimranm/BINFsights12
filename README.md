@@ -15,6 +15,13 @@ accurate predictions.
 
 Needless to say, these methods are incredibly promising. However, we only touched upon the details involved in those first stages of the workflow: the data collection itself.
 
+
+<p float="left">
+  <img src="/img1.png" width="100" />
+  <img src="/img2.png" width="100" /> 
+</p>
+
+
 < IMAGE >
 
  ![space-1.jpg](https://blog-assets.thedyrt.com/uploads/2019/01/shutterstock_1033306540-1.jpg) <b>Image Credits - Fig.2 - 4K Mountains Wallpaper</b>|
@@ -48,7 +55,17 @@ As the first study of its kind, the researchers set out to assess the quality an
 
 Benchmarked against a deep learning tool developed to classify microscopy images, the players were outperformed on common patterns of protein localisation. However, interestingly players excelled at recognising and marking out rarer and more unusual patterns. By combining the player’s annotations with the deep learning model, the model was able to predict a range of protein localisation patterns with incredible accuracy. 
 
+< IMAGE >
+
 ### How sustainable is Citizen Science?
+
+Engaging the broader public in big data projects has become increasingly popular in the scientific community. There are concerns that this engagement and ‘buzz’ is only short-term and are often only focussed on a few biological questions, leading to a dip in participation after the first few days following release.
+
+To combat this, platforms like EteRNA and Project Discovery regularly release new challenges and game mechanics for their player base. Examples include the OpenVaccine challenge, recently hosted by EteRNA, in which the problem of designing stable mRNAs is being tackled. Project Discovery rewards players of their game with in-game currencies and exclusive badges, whereas Hoot Detective was an initiative heavily promoted during the 2021 Australian National Science Week. 
+
+In actively encouraging players to participate, citizen science is emerging as a promising means to complement the existing computational methods in ecology through to molecular biology.
+
+
 
 
 
