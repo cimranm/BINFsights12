@@ -20,7 +20,7 @@ Needless to say, these methods are incredibly promising. However, we only touche
   <img src="/image2.png" width="200" />
   <img src="/image1.png" width="200" /> 
 </p>
-<b> IMAGE from EVE Online: Project Discovery Wiki Page (Left: Some in-game selection options for players classifying images. Right: Fluorescent microscopy images of the microtubules, a component of the cytoskeleton, used in the video game EVE Online.  </br>
+<b> IMAGE from EVE Online: Project Discovery Wiki Page (Left: Some in-game selection options for players classifying images. Right: Fluorescent microscopy images of the microtubules, a component of the cytoskeleton, used in the video game EVE Online.  </b>
  
  
  ### A dive into data
