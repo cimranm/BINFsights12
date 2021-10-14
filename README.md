@@ -17,8 +17,8 @@ Needless to say, these methods are incredibly promising. However, we only touche
 
 
 <p float="left">
-  <img src="/img1.png" width="100" />
-  <img src="/img2.png" width="100" /> 
+  <img src="/image2.png" width="100" />
+  <img src="/image1.png" width="100" /> 
 </p>
 
 
